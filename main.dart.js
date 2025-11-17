@@ -53859,7 +53859,7 @@ YU(a){var s=0,r=A.H(t.H),q=this
 var $async$fT=A.I(function(b,c){if(b===1)return A.E(c,r)
 while(true)switch(s){case 0:s=2
 return A.L(q.a.nk(new A.xc("note"+a+".mp3",null)),$async$fT)
-case 2:A.z1(A.cW(0,0,6),new A.K6(q),t.P)
+case 2:A.z1(A.cW(0,0,3),new A.K6(q),t.P)
 return A.F(null,r)}})
 return A.G($async$fT,r)}}
 A.K6.prototype={
